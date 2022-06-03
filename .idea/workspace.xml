@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee83c3b3-c200-4eaf-be9c-6b1d13d3215e" name="변경" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Greedy_movingStuff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Greedy_NumberOfCoinsRequired" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_implementation_BoardGame" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Advanced_DP_HowManyWaysToRobTheSafe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Advanced_DP_HowToCrackaSafe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/05_rockPaperScissors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/06_NewSauceRecipe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coplit_Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Greedy_movingStuff/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_Greedy_movingStuff/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Greedy_NumberOfCoinsRequired/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02_Greedy_NumberOfCoinsRequired/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Greedy_NumberOfCoinsRequired/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Greedy_NumberOfCoinsRequired/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_implementation_BoardGame/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_implementation_BoardGame/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Advanced_DP_HowManyWaysToRobTheSafe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/04_Advanced_DP_HowManyWaysToRobTheSafe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Advanced_DP_HowManyWaysToRobTheSafe/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/04_Advanced_DP_HowManyWaysToRobTheSafe/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2A2tm0dXVGfVxBoWvstF6sIK5T3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Hakyeong/IdeaProjects/CodeStates_Coplit/Coplit_Algorithm"
+  }
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.com.codestates.coplit.Solution00">
+    <configuration name="Solution00$Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codestates.coplit.Solution00$Main" />
+      <module name="Coplit_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codestates.coplit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.codestates.coplit.Solution00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codestates.coplit.Solution00" />
+      <module name="Coplit_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codestates.coplit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.codestates.coplit.Solution01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codestates.coplit.Solution01" />
+      <module name="Coplit_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codestates.coplit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.com.codestates.coplit.Solution00" />
+        <item itemvalue="애플리케이션.com.codestates.coplit.Solution01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="ee83c3b3-c200-4eaf-be9c-6b1d13d3215e" name="변경" comment="" />
+      <created>1654219665071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654219665071</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>

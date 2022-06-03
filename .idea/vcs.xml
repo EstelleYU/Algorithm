@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01_Greedy_movingStuff" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02_Greedy_NumberOfCoinsRequired" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03_implementation_BoardGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04_Advanced_DP_HowManyWaysToRobTheSafe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05_rockPaperScissors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/06_NewSauceRecipe" vcs="Git" />
+  </component>
+</project>
