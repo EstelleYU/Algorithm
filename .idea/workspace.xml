@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee83c3b3-c200-4eaf-be9c-6b1d13d3215e" name="변경" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Greedy_movingStuff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Greedy_NumberOfCoinsRequired" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_implementation_BoardGame" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Advanced_DP_HowManyWaysToRobTheSafe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Advanced_DP_HowToCrackaSafe/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/05_rockPaperScissors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_rockPaperScissors/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/06_NewSauceRecipe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_NewSauceRecipe/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coplit_Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution00.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codestates/coplit/Solution09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Greedy_movingStuff/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_Greedy_movingStuff/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Greedy_NumberOfCoinsRequired/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02_Greedy_NumberOfCoinsRequired/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Greedy_NumberOfCoinsRequired/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Greedy_NumberOfCoinsRequired/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_implementation_BoardGame/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_implementation_BoardGame/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Advanced_DP_HowManyWaysToRobTheSafe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/04_Advanced_DP_HowManyWaysToRobTheSafe/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Advanced_DP_HowManyWaysToRobTheSafe/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/04_Advanced_DP_HowManyWaysToRobTheSafe/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Hakyeong/IdeaProjects/CodeStates_Coplit/Coplit_Algorithm"
+    "last_opened_file_path": "C:/Users/Hakyeong/IdeaProjects/CodeStates_Coplit"
   }
 }]]></component>
   <component name="RunManager" selected="애플리케이션.com.codestates.coplit.Solution00">
@@ -127,6 +86,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654219665071</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1654241340999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654241340999</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
